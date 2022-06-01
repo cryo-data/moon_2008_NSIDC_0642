@@ -1,0 +1,35 @@
+cryo_data_name: moon_2008_NSIDC_0642
+references:
+  data:
+    doi: 10.5067/DC0MLBOCL3EL
+    bib: |-
+      @misc{https://doi.org/10.5067/dc0mlbocl3el,
+        doi = {10.5067/DC0MLBOCL3EL},
+        url = {https://nsidc.org/data/nsidc-0642/versions/1},
+        author = {Joughin,   Ian and {University Of Washington}},
+        title = {MEaSUREs Annual Greenland Outlet Glacier Terminus Positions from SAR Mosaics,  Version 1},
+        publisher = {NASA National Snow and Ice Data Center DAAC},
+        year = {2015}}
+  science:
+    doi: 10.1029/2007JF000927
+    bib: |-
+      @article{moon_2008,
+        doi = {10.1029/2007jf000927},
+        url = {https://doi.org/10.1029/2007jf000927},
+        year = {2008},
+        month = jun,
+        publisher = {American Geophysical Union ({AGU})},
+        volume = {113},
+        number = {F2},
+        author = {Twila Moon and Ian Joughin},
+        title = {Changes in ice front position on Greenland{\textquotesingle}s outlet glaciers from 1992 to 2007},
+        journal = {Journal of Geophysical Research}}
+
+aka:
+  author: moon_2008
+  data_provider: NSIDC/0642
+  organization:
+  project: MEaSURES/annual_greenland_outlet_glacier_terminus_positions_from_SAR_mosaics_v1
+  other:
+  
+
